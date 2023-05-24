@@ -1,0 +1,4 @@
+The solid waste generated in our country is 73%, with 31. 7 percent unaccounted. To address this, smart bins are being developed that offer a more efficient and effective way to manage waste, especially in densely populated urban areas.  The smart bin we develop will continuously monitor the level of waste and send notifications to the user's phone via a GSM module. It can be implemented in any residential area at a minimal cost and can be tied up with recycling units to take the waste when it is almost full. As of now, Arduino board-based control is being proposed.
+At present, we are using a servo and ultrasonic sensor to control the opening and closing of the dustbin and also an ultrasonic sensor inside the bin that calculates the distance and gives notification to the receipt phone via a gsm module when the minimum threshold distance is reached. The height of the bin can be  400 cm.
+
+
